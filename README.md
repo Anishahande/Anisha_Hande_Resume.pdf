@@ -1,4 +1,3 @@
-# Anisha_Hande_Resume.pdf
 # Anisha Hande - Resume and Projects
 
 👩‍🎓 **Mathematics Graduate | AWS Certified Cloud Practitioner (In Progress)**  
